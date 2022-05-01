@@ -1,2 +1,2 @@
 # ajax_crud
-This is ajax crud functionality.
+This is ajax crud and rest api functionality.
